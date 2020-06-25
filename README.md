@@ -12,5 +12,6 @@ This repository contains the two (2) main documents to start the self-study prog
 ## Text editing versions
 If you would want to use the text editing versions of these manuals:
 * Clone the repository GeoStack-Project-Files.
-* The ODT files that were created with LibreOffice Writer are in the folder GeoStack-Manuals.
+* The ODT files were created with [LibreOffice Writer](https://www.libreoffice.org) and are in the folder GeoStack-Manuals.
 * The document images are in the folder GeoStack-Images.
+* The document cover was created with the [GIMP](https://www.gimp.org) and the files are in folder GeoStack-Document-Cover.
