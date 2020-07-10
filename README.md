@@ -10,8 +10,9 @@ This repository contains the two (2) main documents to start the self-study prog
 2) Both manuals also include the instructions to clone the required repositories for the Workshop or the Course and where applicable also the instructions to download datasets in Ubuntu Linux once you have the Virtual Machines up and running.
 
 ## Text editing versions
-If you would want to use the text editing versions of these manuals:
-* Clone the repository GeoStack-Project-Files.
-* The ODT files were created with [LibreOffice Writer](https://www.libreoffice.org) and the files are in the folder GeoStack-Manuals-ODT.
-* The document images are in the folder GeoStack-Images.
-* The document cover was created with the [GIMP](https://www.gimp.org) and the files are in the folder GeoStack-Document-Cover.
+If you would want to use the text editing versions of these manuals, simply clone the repository folder GeoStack-Project-Files.
+* The ODT files were created with [LibreOffice Writer](https://www.libreoffice.org).
+  * The ODT files are in the sub-folder GeoStack-Manuals-ODT.
+  * The document images can be found in the folder Pictures after unzipping the ODT file.
+* The document cover was created with the [GIMP](https://www.gimp.org).
+  * The document cover files can be found in the sub-folder GeoStack-Document-Cover.
